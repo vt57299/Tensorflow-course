@@ -1,1 +1,1 @@
-# DEEP learning using Tensorflow
+# Deep-learning using Tensorflow
